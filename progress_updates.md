@@ -1,4 +1,4 @@
-#Progress Updates
+# Progress Updates
 
 ## September
 
